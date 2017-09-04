@@ -1,2 +1,4 @@
 # NumberGuesser
-Simple Unity game in which the computer guesses your number.
+My first Unity game: simple application in which the computer guesses your number. Special thanks to the amazing Udemy course 'Learn to Code by Making Games' for teaching me. 
+
+
